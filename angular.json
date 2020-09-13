@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FortawesomeIcons"
+    }
+  },
+  "defaultProject": "FortawesomeIcons",
+  "cli": {
+    "analytics": "c2719cce-54f8-486e-a15e-376a28a7d83a"
+  }
 }
